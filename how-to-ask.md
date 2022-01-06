@@ -8,9 +8,13 @@ Let us know what you tried as it will help us help you
 ## Steps to take care of when you are asking a question
 Describe your issue using the below format 
 ### Use a Title
-Write a title that summarizes the specific problem
+Write a title that summarizes the specific problem, that follows the below template
+```
+Question- #Tag  - Summary
+```
 
 ```
+ex
 Question- Project#1 How I could resolve missing dependencies x?
 Question- Project#2 How to create a CI to run test cases?
 ```
