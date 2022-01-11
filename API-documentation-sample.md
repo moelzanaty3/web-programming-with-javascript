@@ -54,3 +54,73 @@
 English
 `GET` | `POST` | `DELETE` | `PUT`
 
+
+## Example 1
+
+**Show User**
+----
+  Returns json data about a single user.
+
+* **URL**
+
+  /users/:id
+
+* **Method:**
+
+  `GET`
+  
+*  **URL Params**
+
+   **Required:**
+ 
+   `id=[integer]`
+
+* **Data Params**
+
+  None
+
+* **Success Response:**
+
+  * **Code:** 200 <br />
+    **Content:** `{ id : 12, name : "Mohammed Elzanaty" }`
+ 
+* **Error Response:**
+
+  * **Code:** 404 NOT FOUND <br />
+    **Content:** `{ error : "User doesn't exist" }`
+
+  OR
+
+  * **Code:** 401 UNAUTHORIZED <br />
+    **Content:** `{ error : "You are unauthorized to make this request." }`
+
+## Example 2 using other template
+
+- Index - **`token required`**
+  - HTTP verb `GET`
+  - Endpoint:- `/api/users/`
+  - Request Body
+
+    ```json
+      N/A
+    ```
+
+  - Response Body -- `Array of user objects`
+
+    ```json
+      {
+        "status": "success",
+        "data": {
+          "users": [
+            {
+              "id": 1,
+              "email": "mo@elzanaty.com",
+              "userName": "mohammedelzanaty",
+              "firstName": "Mohammed",
+              "lastName": "Elzanaty"
+            }
+          ]
+        },
+        "message": "users retrieved successfully"
+      }
+    ```
