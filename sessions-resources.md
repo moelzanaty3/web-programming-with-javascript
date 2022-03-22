@@ -40,6 +40,18 @@ This page is a cumulative effort between session leads where we have a single pl
 </ul>
 </details>
 
+<summary>TDD &  testing</summary>
+
+<ul>
+  <li><a href="https://www.testim.io/blog/tdd-vs-bdd-a-developers-pocket-reference-with-examples/#:~:text=TDD%20is%20more%20%E2%80%9Cdeveloper%2Dcentric,that%20only%20developers%20can%20read">TDD vs BDD: Your Pocket Cheat-Sheet</a></li>
+  <li><a href="https://www.freecodecamp.org/news/jasmine-unit-testing-tutorial-4e757c2cbf42/">An Introduction to Jasmine Unit Testing</a></li>
+  <li><a href="https://thiagooliveirasantos.medium.com/typescript-unit-tests-best-practices-part-5-how-to-unit-test-almost-everything-in-typescript-678900248004">TypeScript unit tests best practices part 5: how to “unit test” (almost) everything in TypeScript | by Thiago Oliveira Santos | Medium</a></li>
+  <li><a href="https://stackabuse.com/using-stubs-for-testing-in-javascript-with-sinon-js/">Using Stubs for Testing in JavaScript with Sinon.js</a></li>
+  
+</ul>
+</details>
+
+
 <details>
 <summary>Deployment Process</summary>
 
