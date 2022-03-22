@@ -40,6 +40,7 @@ This page is a cumulative effort between session leads where we have a single pl
 </ul>
 </details>
 
+<details>
 <summary>TDD &  testing</summary>
 
 <ul>
