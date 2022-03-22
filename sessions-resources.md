@@ -29,7 +29,7 @@ This page is a cumulative effort between session leads where we have a single pl
 
 <details>
 <summary>Creating an API with PostgreSQL and Express</summary>
-
+  <h2>Design services like a pro</h2>
 <ul>
   <li><a href="https://www.freecodecamp.org/news/rest-api-best-practices-rest-endpoint-design-examples/](https://www.freecodecamp.org/news/rest-api-best-practices-rest-endpoint-design-examples">REST API Best Practices – REST Endpoint Design Examples</a></li>
   <li><a href="https://codesource.io/creating-a-logging-middleware-in-expressjs/](https://codesource.io/creating-a-logging-middleware-in-expressjs/">Creating a logging middleware in Expressjs</a></li>
@@ -42,7 +42,7 @@ This page is a cumulative effort between session leads where we have a single pl
 
 <details>
 <summary>TDD &  testing</summary>
-
+  <h2>Test like a pro</h2>
 <ul>
   <li><a href="https://www.testim.io/blog/tdd-vs-bdd-a-developers-pocket-reference-with-examples/#:~:text=TDD%20is%20more%20%E2%80%9Cdeveloper%2Dcentric,that%20only%20developers%20can%20read">TDD vs BDD: Your Pocket Cheat-Sheet</a></li>
   <li><a href="https://www.freecodecamp.org/news/jasmine-unit-testing-tutorial-4e757c2cbf42/">An Introduction to Jasmine Unit Testing</a></li>
