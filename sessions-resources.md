@@ -26,8 +26,42 @@ This page is a cumulative effort between session leads where we have a single pl
 </ul>
 </details>
 
+
 <details>
 <summary>Creating an API with PostgreSQL and Express</summary>
+  <h2>Design services like a pro</h2>
+<ul>
+  <li><a href="https://www.freecodecamp.org/news/rest-api-best-practices-rest-endpoint-design-examples/](https://www.freecodecamp.org/news/rest-api-best-practices-rest-endpoint-design-examples">REST API Best Practices – REST Endpoint Design Examples</a></li>
+  <li><a href="https://codesource.io/creating-a-logging-middleware-in-expressjs/](https://codesource.io/creating-a-logging-middleware-in-expressjs/">Creating a logging middleware in Expressjs</a></li>
+    <li><a href="https://childish-bubbler-7a0.notion.site/DB-Basics-check-aefac769c5a3413fa36a1f3720446ae3">DB Basics check</a></li>
+  <li><a href="https://www.sqlshack.com/learn-sql-types-of-relations/">Learn SQL: Types of relations</a></li>
+  <li><a href="https://blog.devart.com/types-of-relationships-in-sql-server-database.html">Relationships in SQL - Complete Guide With Examples - Devart Blog</a></li>
+  
+</ul>
+</details>
+
+<details>
+<summary>TDD &  testing</summary>
+  <h2>Test like a pro</h2>
+<ul>
+  <li><a href="https://www.testim.io/blog/tdd-vs-bdd-a-developers-pocket-reference-with-examples/#:~:text=TDD%20is%20more%20%E2%80%9Cdeveloper%2Dcentric,that%20only%20developers%20can%20read">TDD vs BDD: Your Pocket Cheat-Sheet</a></li>
+  <li><a href="https://www.freecodecamp.org/news/jasmine-unit-testing-tutorial-4e757c2cbf42/">An Introduction to Jasmine Unit Testing</a></li>
+  <li><a href="https://thiagooliveirasantos.medium.com/typescript-unit-tests-best-practices-part-5-how-to-unit-test-almost-everything-in-typescript-678900248004">TypeScript unit tests best practices part 5: how to “unit test” (almost) everything in TypeScript | by Thiago Oliveira Santos | Medium</a></li>
+  <li><a href="https://stackabuse.com/using-stubs-for-testing-in-javascript-with-sinon-js/">Using Stubs for Testing in JavaScript with Sinon.js</a></li>
+  
+</ul>
+</details>
+
+
+<details>
+<summary>Deployment Process</summary>
+
+<ul>
+<li><a href="#">Hamada</a></li>
+</ul>
+</details>
+<details>
+<summary>Tools</summary>
 
 <ul>
 <li><a href="#">Hamada</a></li>
@@ -35,7 +69,7 @@ This page is a cumulative effort between session leads where we have a single pl
 </details>
 
 <details>
-<summary>Deployment Process</summary>
+<summary>Extra</summary>
 
 <ul>
 <li><a href="#">Hamada</a></li>
