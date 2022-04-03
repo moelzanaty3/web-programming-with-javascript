@@ -1,12 +1,15 @@
-# guide-lines
+# Guidelines
 
 Udacity Students Notes For Full Stack Web Developer Nanodegree and other Nanodegrees
 
+> This is the boat made with ❤️ love to save you in the Full Stack JS NanoDegree or Advanced Web Development Track as egFwd named it. Now if you ask where I can apply for it to Become a Web Developer Guru
 
-<Tip>This is the boat made with ❤️ love to save you in the Full Stack JS NanoDegree or Advanced Web Development Track as egFwd named it. Now if you ask where I can apply for it to Become a Web Developer Guru <a href="https://egfwd.com/specializtion/advanced-web-development/">here it's</a></Tip>
+- [Guidelines](#guidelines)
+  - [ND Prerequisites](#nd-prerequisites)
+  - [Sessions](#sessions)
+  - [Projects](#projects)
 
-
-## Nano Degree Prerequisites
+## ND Prerequisites
 
 Before we start at anything u will need to get your hands dirty with concepts you will need a lot in the lessons and don't worry I create a two videos for them
 
@@ -19,6 +22,18 @@ Before we start at anything u will need to get your hands dirty with concepts yo
 📹  TypeScript Fundamentals 🔜 👨🏻‍💻 🤌🏻 🤷🏻‍♂️
 
 📹  Database Fundamentals 🔜 👨🏻‍💻 🤌🏻 🤷🏻‍♂️
+
+## Sessions
+
+1. [Backend 101](sessions/01.backend-101.md)
+2. [Express](sessions/02.express.md)
+3. Unit Testing
+4. Database Fundamentals
+5. Integrated DB with NodeJS
+6. CRUD Operations
+7. Authentication & Authorization
+8. Cloud 101
+9. CI/CD
 
 ## Projects
 
