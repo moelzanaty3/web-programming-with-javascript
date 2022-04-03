@@ -3,7 +3,8 @@
 This page is a cumulative effort between session leads where we have a single place for all sessions resources
 
 ## 🔗 Essentials
-
+- [🎥 ES6 Tutorial: Learn Modern JavaScript](https://www.youtube.com/playlist?list=PLLWuK602vNiVnYxkrT7qbFSictc9nJeiX)
+- [🎥 JavaScript Promises, Async/Await, DOM)](https://www.youtube.com/watch?v=dD5hv6v4d7I)
 - [What are promises?](https://javascript.info/promise-basics)
 - [What is package.json?](https://nodejs.org/en/knowledge/getting-started/npm/what-is-the-file-package-json/)
 - [What are dependencies?](https://coderslegacy.com/what-are-dependencies-in-programming/)

@@ -1,39 +1,22 @@
-# Guidelines
+# Backend Development with NodeJS
 
-Udacity Students Notes For Full Stack Web Developer Nanodegree and other Nanodegrees
+> This is the boat made with ❤️ love to widen your horizon in backend development
 
-> This is the boat made with ❤️ love to save you in the Full Stack JS NanoDegree or Advanced Web Development Track as egFwd named it. Now if you ask where I can apply for it to Become a Web Developer Guru
-
-- [Guidelines](#guidelines)
-  - [ND Prerequisites](#nd-prerequisites)
-  - [Sessions](#sessions)
+- [Backend Development with NodeJS](#backend-development-with-nodejs)
+  - [Timeline](#timeline)
   - [Projects](#projects)
 
-## ND Prerequisites
-
-Before we start at anything u will need to get your hands dirty with concepts you will need a lot in the lessons and don't worry I create a two videos for them
-
-📹  JS Fundamental Concepts (loops, conditionals, arrays, objects, functions) 🔜 👨🏻‍💻 🤌🏻 🤷🏻‍♂️
-
-📹  [ES6 Tutorial: Learn Modern JavaScript](https://www.youtube.com/playlist?list=PLLWuK602vNiVnYxkrT7qbFSictc9nJeiX)
-
-📹  [JavaScript Promises, Async/Await, DOM)](https://www.youtube.com/watch?v=dD5hv6v4d7I)
-
-📹  TypeScript Fundamentals 🔜 👨🏻‍💻 🤌🏻 🤷🏻‍♂️
-
-📹  Database Fundamentals 🔜 👨🏻‍💻 🤌🏻 🤷🏻‍♂️
-
-## Sessions
+## Timeline
 
 1. [Backend 101](sessions/01.backend-101.md)
 2. [Express](sessions/02.express.md)
-3. Unit Testing
-4. Database Fundamentals
-5. Integrated DB with NodeJS
-6. CRUD Operations
-7. Authentication & Authorization
-8. Cloud 101
-9. CI/CD
+3. [Unit Testing](sessions/03.unit-testing.md)
+4. [Database Fundamentals](sessions/04.database-fundamentals.md)
+5. [Integrated DB with NodeJS](sessions/05.integrated-db-with-nodejs.md)
+6. [CRUD Operations](sessions/06.crud-operations.md)
+7. [Authentication & Authorization](sessions/07.authentication-authorization.md)
+8. [Cloud 101](sessions/08.cloud-101.md)
+9. [CI/CD](sessions/09.ci-cd.md)
 
 ## Projects
 
