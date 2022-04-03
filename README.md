@@ -5,6 +5,7 @@ Udacity Students Notes For Full Stack Web Developer Nanodegree and other Nanodeg
 
 <Tip>This is the boat made with ❤️ love to save you in the Full Stack JS NanoDegree or Advanced Web Development Track as egFwd named it. Now if you ask where I can apply for it to Become a Web Developer Guru <a href="https://egfwd.com/specializtion/advanced-web-development/">here it's</a></Tip>
 
+
 ## Prerequisites 
 
 Before we start at anything u will need to get your hands dirty with concepts you will need a lot in the lessons and don't worry I create a two videos for them
