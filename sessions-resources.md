@@ -2,16 +2,6 @@
 
 This page is a cumulative effort between session leads where we have a single place for all sessions resources
 
-- [Sessions resources](#sessions-resources)
-  - [🔗 Essentials](#-essentials)
-  - [🔗 TypeScript](#-typescript)
-  - [🔗 Code Quality](#-code-quality)
-  - [🔗 Design services like a pro](#-design-services-like-a-pro)
-  - [🔗 Databases](#-databases)
-  - [🔗 TDD &  testing](#-tdd---testing)
-  - [🔗 Deployment Process](#-deployment-process)
-  - [🔗 Tools](#-tools)
-  - [🔗 Extra](#-extra)
   
 ## 🔗 Essentials
 
