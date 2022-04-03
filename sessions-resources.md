@@ -7,7 +7,7 @@ This page is a cumulative effort between session leads where we have a single pl
   - [🔗 TypeScript](#-typescript)
   - [🔗 Code Quality](#-code-quality)
   - [🔗 Design services like a pro](#-design-services-like-a-pro)
-  - [Databases](#databases)
+  - [🔗 Databases](#-databases)
   - [🔗 TDD &  testing](#-tdd---testing)
   - [🔗 Deployment Process](#-deployment-process)
   - [🔗 Tools](#-tools)
@@ -15,7 +15,7 @@ This page is a cumulative effort between session leads where we have a single pl
   
 ## 🔗 Essentials
 
-- [What are promises?][https://javascript.info/promise-basics]
+- [What are promises?](https://javascript.info/promise-basics)
 - [What is package.json?](https://nodejs.org/en/knowledge/getting-started/npm/what-is-the-file-package-json/)
 - [What are dependencies?](https://coderslegacy.com/what-are-dependencies-in-programming/)
 - [Promises](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await)
@@ -41,7 +41,7 @@ This page is a cumulative effort between session leads where we have a single pl
 - [REST API Best Practices – REST Endpoint Design Examples](https://www.freecodecamp.org/news/rest-api-best-practices-rest-endpoint-design-examples/)
 - [Creating a logging middleware in ExpressJS](https://codesource.io/creating-a-logging-middleware-in-expressjs/)
 
-## Databases
+## 🔗 Databases
 
 - [What Is a Database?](https://www.oracle.com/database/what-is-database/)
 - [What’s the Difference Between SQL and NoSQL](https://www.guru99.com/sql-vs-nosql.html)
