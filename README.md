@@ -21,6 +21,7 @@
 
 ## Projects
 
-1. [Image Processing API](./projects/image-processing-api.md)
-2. [Build A Storefront Backend](./projects/storefront-backend.md)
-3. [Hosting a Full Stack Application](./projects/full-stack-app.md)
+1. [Image Processing API](./projects/01.image-processing-api.md)
+2. [Build A Storefront Backend](./projects/02.store-front.md)
+3. [Hosting a Full Stack Application](./projects/03.hosting-full-stack-application.md)
+4. [Top 10 Node JS Projects Ideas (With Source Code)](https://www.interviewbit.com/blog/node-js-projects/)
