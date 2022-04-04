@@ -29,3 +29,17 @@ jobs:
         ) }}
       with:
         experimental_apply_changes_via_bot: 1
+        extra_dictionaries:
+          cspell:cpp/cpp.txt
+          cspell:aws/aws.txt
+          cspell:npm/npm.txt
+          cspell:filetypes/filetypes.txt
+          cspell:golang/go.txt
+          cspell:django/django.txt
+          cspell:html/html.txt
+          cspell:css/css.txt
+          cspell:ruby/ruby.txt
+          cspell:node/node.txt
+          cspell:lua/lua.txt
+          cspell:java/java.txt
+          cspell:csharp/csharp.txt
